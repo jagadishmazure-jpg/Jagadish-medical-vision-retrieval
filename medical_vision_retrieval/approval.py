@@ -1,7 +1,7 @@
 """Human gate: named-person, single-use, scoped, expiring approvals."""
 from __future__ import annotations
 
-from dataclasses import dataclass, field
+from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
 
 from .consent import ConsentDecision

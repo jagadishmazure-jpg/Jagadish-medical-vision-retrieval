@@ -1,4 +1,3 @@
-import pytest
 
 from medical_vision_retrieval import Approval, AuditLog, HumanGate, parse_consent, redact_pii
 from medical_vision_retrieval.brand import BLOCKLIST_HASHES, contains_blocked
