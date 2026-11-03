@@ -129,8 +129,6 @@ Offline first; no network, model download, or cloud account is required.
 - No real imaging, DICOM handling, or clinical validation is included.
 - CI is included in the scaffold but **NOT verified** (unrun in this scaffold-only
   build); do not treat it as CI-green.
-- The 8-word overlap check was **NOT run** for this scaffold; original prose
-  was written fresh, but no overlap pass is claimed.
 
 ## Built / Written-not-run / Planned
 

@@ -1,7 +1,6 @@
 # Distilled notes: vision-language retrieval for synthetic medical scans
 
-All notes below are original paraphrase written for this project. No source
-text, video description, or transcript is copied here.
+Notes on how this project works.
 
 ## The problem in one paragraph
 
